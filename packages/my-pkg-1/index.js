@@ -1,3 +1,3 @@
 module.exports = function () {
-    console.log("Helloo from pkg 1");
+    console.log("Hellooo from pkg 1");
 };
